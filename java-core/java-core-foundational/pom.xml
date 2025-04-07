@@ -12,6 +12,8 @@
     <packaging>pom</packaging>
     <modules>
         <module>java-core-foundational-object</module>
+        <module>java-core-foundational-syntax</module>
+        <module>java-core-foundational-operator</module>
     </modules>
 
     <artifactId>java-core-foundational</artifactId>
