@@ -5,17 +5,11 @@
     <modelVersion>4.0.0</modelVersion>
     <parent>
         <groupId>net.ittimeline</groupId>
-        <artifactId>java</artifactId>
+        <artifactId>java-core-api</artifactId>
         <version>1.0-SNAPSHOT</version>
     </parent>
-    <packaging>pom</packaging>
-    <modules>
-        <module>java-core-foundational</module>
-        <module>java-core-oop</module>
-        <module>java-core-api</module>
-    </modules>
 
-    <artifactId>java-core</artifactId>
+    <artifactId>java-core-api-math</artifactId>
 
     <properties>
         <maven.compiler.source>21</maven.compiler.source>
